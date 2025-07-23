@@ -1,7 +1,9 @@
 # FacDNet
-<img width="1594" height="670" alt="image" src="https://github.com/user-attachments/assets/946ca049-d17c-4a1e-a5ea-ca13b372208a" />
 
 Our code will be released soon, which will be made fully open upon article acceptance.
+
+<img width="1594" height="670" alt="image" src="https://github.com/user-attachments/assets/946ca049-d17c-4a1e-a5ea-ca13b372208a" />
+
 
 
 
